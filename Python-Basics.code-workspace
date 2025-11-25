@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Python-Basics",
+			"path": "."
+		},
+		{
+			"name": "Practice",
+			"path": "../Desktop/Python/Practice"
+		},
+		{
+			"name": "Projects",
+			"path": "../Desktop/Python/Projects"
+		}
+	],
+	"settings": {}
+}
