@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am currently working on learning the basics of python, this repo holds problem sets which I used to practice the basics (Loops, Functions, Dictionaries, Classes etc.)
+
+My goal is to become a data-driven AI engineer. Planning to move on to SQL once I am done with python.
 
 <!--
 **khamad21/khamad21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
